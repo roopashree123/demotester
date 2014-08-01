@@ -9,7 +9,7 @@ development:
   adapter: mysql
   database: kart
   username: root
-  password: root
+  password: root 
   host: localhost
   
   
